@@ -12,3 +12,5 @@ public interface ClienteRepository extends JpaRepository<Cliente, Integer>{
 	//Veja que é uma interface que extende os recursos do Jpa.
 
 }
+
+
